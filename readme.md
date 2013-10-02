@@ -1,1 +1,2 @@
-Javascript Finite State Machine
+javascript-finite-state-machine
+===============================
