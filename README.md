@@ -1,2 +1,0 @@
-javascript-finite-state-machine
-===============================
